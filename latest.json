@@ -1,0 +1,9 @@
+{
+    "version": "0.0.2",
+    "patches": {
+        "0.0.1": {
+            "url": "https://github.com/hoseini-docsplain/patch-updater/releases/download/v0.0.2/patch-0.0.1-to-0.0.2.zip",
+            "sha256": "1545f1e2acc4444be68d35a3f1b7e3515e412d5cd8d069aa894c17cd342252c4"
+        }
+    }
+}
