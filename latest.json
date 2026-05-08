@@ -2,7 +2,7 @@
   "version": "v0.0.3",
   "full": {
     "url": "https://github.com/hoseini-docsplain/patch-updater/releases/download/v0.0.3/full-v0.0.3.zip",
-    "sha256": c0282ad7522eb1155c57c7c05a7aeb26284e7a70a0ca2950d0aab46c5af3db72"
+    "sha256": "c0282ad7522eb1155c57c7c05a7aeb26284e7a70a0ca2950d0aab46c5af3db72"
   },
   "patches": {
     "v0.0.2": {
