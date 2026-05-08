@@ -1,9 +1,13 @@
 {
-    "version": "0.0.2",
-    "patches": {
-        "0.0.1": {
-            "url": "https://github.com/hoseini-docsplain/patch-updater/releases/download/v0.0.2/patch-0.0.1-to-0.0.2.zip",
-            "sha256": "0fd373ba6fd2f7d522181786fc215649fd83eeca1442d17ef93f980efc0950d8"
-        }
+  "version": "v0.0.3",
+  "full": {
+    "url": "https://github.com/hoseini-docsplain/patch-updater/releases/download/v0.0.3/full-v0.0.3.zip",
+    "sha256": "c0282ad7522eb1155c57c7c05a7aeb26284e7a70a0ca2950d0aab46c5af3db72"
+  },
+  "patches": {
+    "v0.0.2": {
+      "url": "https://github.com/hoseini-docsplain/patch-updater/releases/download/v0.0.3/patch-v0.0.2-to-v0.0.3.zip",
+      "sha256": "10cb4ee1f231c4c3b0bbd647a8b2f4d24e4408528b0b8655bb7ab29c76d35bff"
     }
+  }
 }
